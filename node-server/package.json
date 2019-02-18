@@ -1,0 +1,17 @@
+{
+    "name": "node-web-server",
+    "version": "0.0.0",
+    "description": "Sample Code",
+    "main": "index.js",
+    "author": {
+        "name": "Ari D",
+        "email": "adas1990.gatech@gmail.com"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "4.16.4",
+        "lodash": "4.17.11"
+    }
+}
